@@ -127,5 +127,5 @@ A robust lead management subsystem engineered for reliability and conversion:
 ## 📬 Contact & Portfolio Inquiries
 
 For project discussions, technical inquiries, or architectural consultations:
-- **Developer Organization**: [RG Creators](https://github.com/RG_creators)
-- **Email**: `rg-dev@users.noreply.github.com`
+- **Developer Organization**: [RG Creators](https://github.com/RG-Creators)
+- **Email**: [`rgcreatorsofficial@gmail.com`](mailto:rgcreatorsofficial@gmail.com)
