@@ -47,9 +47,9 @@ A robust lead management subsystem engineered for reliability and conversion:
 
 ---
 
-## 📸 Visual Showcase — Public Web Experience
+## 📸 Visual Showcase — Public Web Experience & Admin Platform
 
-### 1. Landing Page Experience
+### 1. Public Landing Page Experience
 
 | Section | Preview |
 |---|---|
@@ -64,10 +64,10 @@ A robust lead management subsystem engineered for reliability and conversion:
 
 ### 2. Multi-Device & Mobile Responsiveness
 
-| Mobile Navigation Drawer | Institutional Discipline Card |
-|:---:|:---:|
-| ![Mobile Navigation Menu](showcase-assets/04-mobile-navigation-menu.png) | ![Mobile Card Discipline](showcase-assets/03-mobile-card-discipline.png) |
-| *Clean drawer navigation with quick booking trigger* | *Touch-friendly portfolio performance card* |
+| Mobile Navigation Drawer | Institutional Discipline Card | Mobile Executive Dashboard |
+|:---:|:---:|:---:|
+| ![Mobile Navigation Menu](showcase-assets/04-mobile-navigation-menu.png) | ![Mobile Card Discipline](showcase-assets/03-mobile-card-discipline.png) | ![Mobile Dashboard](showcase-assets/16-admin-mobile-dashboard.png) |
+| *Clean drawer navigation with quick booking trigger* | *Touch-friendly portfolio performance card* | *Full on-the-go administrative command* |
 
 ---
 
@@ -80,6 +80,23 @@ A robust lead management subsystem engineered for reliability and conversion:
 | **Practice Detail — Wealth Management Scope**<br>Detailed breakdown of strategic asset allocation, estate planning, and private advisory. | ![Practice Detail Scope](showcase-assets/12-service-detail-overview.png) |
 | **Practice Execution Roadmap**<br>Step-by-step institutional workflow (Diagnostic Audit → Strategy Architecture → Active Oversight). | ![Practice Roadmap](showcase-assets/13-service-detail-roadmap.png) |
 | **Corporate Headquarters & Direct Inquiries**<br>Dedicated `/contact` portal featuring multi-channel consultation dispatch. | ![Contact Page](showcase-assets/10-contact-page.png) |
+
+---
+
+### 4. Custom Admin CMS & Executive CRM Command Center
+
+A role-secured administrative operations portal empowering non-technical business principals to manage brand positioning, service catalogs, live consultation pipelines, and global website settings in real time:
+
+| Section | Preview |
+|---|---|
+| **Secure Authentication Portal**<br>Institutional-grade dark mode authentication gateway with session security. | ![Admin Login](showcase-assets/14-admin-login-portal.png) |
+| **Command Center Dashboard Overview**<br>Executive metrics overview tracking live inquiries, conversion ratios, quick content actions, and server hosting readiness. | ![Dashboard Overview](showcase-assets/15-admin-dashboard-overview.png) |
+| **Homepage Sections Manager**<br>Dynamic CMS allowing instant reordering, headline updates, and live visibility toggling without code changes. | ![Sections Manager](showcase-assets/17-admin-sections-manager.png) |
+| **Advisory Practices & Services Directory**<br>Granular CRUD manager for service disciplines, categories, badges, and featured flags. | ![Services Directory](showcase-assets/18-admin-services-catalog.png) |
+| **Consultation Enquiries & CRM Pipeline**<br>Lead status lifecycle management (`All`, `New`, `Read`, `Contacted`, `Follow-Up`, `Converted`) with live sync and CSV export. | ![Consultation CRM](showcase-assets/20-admin-consultation-crm.png) |
+| **Client Testimonials & Endorsements**<br>Manage verified client endorsements, institutional roles, and 5-star rating displays. | ![Testimonials Manager](showcase-assets/21-admin-client-testimonials.png) |
+| **Knowledgebase & FAQs Management**<br>Dynamic FAQ manager supporting multi-category sorting and instant public publication. | ![FAQs Management](showcase-assets/22-admin-faqs-knowledgebase.png) |
+| **Website Configuration & Branding**<br>Runtime control over firm metadata, communication desks, call-to-action endpoints, and push keys. | ![Website Settings](showcase-assets/19-admin-website-settings.png) |
 
 ---
 
@@ -159,7 +176,7 @@ A robust lead management subsystem engineered for reliability and conversion:
 - ⚡ LiteSpeed server-side caching integration with instant cache purge workflows.
 - 🔒 Comprehensive production hardening including request size ceilings and header security shields.
 - 📱 Responsive UI implementation with custom Tailwind CSS design system.
-- 📸 Public portal screenshots showcase across desktop, tablet, and mobile views.
+- 📸 Complete visual showcase covering public pages, mobile experience, and admin command center.
 
 ---
 
