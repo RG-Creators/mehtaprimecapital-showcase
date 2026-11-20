@@ -1,7 +1,9 @@
 # Mehta Prime Capital — Dynamic Financial Portal & Lead Management CMS
 
 > **Public Project Showcase & Technical Case Study**  
-> *A high-performance wealth management web application featuring a bespoke content management engine and real-time CRM lead capture pipeline.*
+> *A high-performance wealth management web application featuring a bespoke content management engine and real-time CRM lead capture pipeline.*  
+>  
+> 🌐 **Live Website**: [https://mehtaprimecapital.in/](https://mehtaprimecapital.in/)
 
 ---
 
@@ -127,5 +129,6 @@ A robust lead management subsystem engineered for reliability and conversion:
 ## 📬 Contact & Portfolio Inquiries
 
 For project discussions, technical inquiries, or architectural consultations:
+- **Live Platform**: [https://mehtaprimecapital.in/](https://mehtaprimecapital.in/)
 - **Developer Organization**: [RG Creators](https://github.com/RG-Creators)
-- **Email**: [`rgcreatorsofficial@gmail.com`](mailto:rgcreatorsofficial@gmail.com)
+- **Direct Email**: [`rgcreatorsofficial@gmail.com`](mailto:rgcreatorsofficial@gmail.com)
