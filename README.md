@@ -15,7 +15,7 @@
 
 ## 🌟 Executive Summary
 
-**Mehta Prime Capital** is a bespoke web portal designed for an Indian premier capital advisory firm. Engineered to serve High-Net-Worth Individuals (HNWIs) and corporate institutions, the platform couples an ultra-fast, fiduciary-compliant frontend with a custom-engineered administrative CMS and real-time lead capture engine.
+**Mehta Prime Capital** ([mehtaprimecapital.in](https://mehtaprimecapital.in/)) is a bespoke web portal designed for an Indian premier capital advisory firm. Engineered to serve High-Net-Worth Individuals (HNWIs) and corporate institutions, the platform couples an ultra-fast, fiduciary-compliant frontend with a custom-engineered administrative CMS and real-time lead capture engine.
 
 ### Key Business & Technical Goals
 1. **Dynamic Content Governance Without Code Changes**: Empower firm leadership to update website sections, advisory services, team credentials, and contact desks on demand without developer intervention.
@@ -44,6 +44,42 @@ A robust lead management subsystem engineered for reliability and conversion:
 - **Design System**: Built with modern Tailwind CSS principles, utilizing a bespoke financial color palette (deep navy, rich warm cream, and gold accents).
 - **Mobile-First Responsiveness**: Tailored typography scaling, touch-optimized consultation triggers, and adaptive image presentation.
 - **Accessibility & Compliance**: Semantic HTML5 layout adhering to SEBI digital compliance standards.
+
+---
+
+## 📸 Visual Showcase — Public Web Experience
+
+### 1. Landing Page Experience
+
+| Section | Preview |
+|---|---|
+| **Hero & Capital Preservation Matrix**<br>Desktop view with interactive multi-asset risk curve and immediate consultation CTA. | ![Homepage Hero](showcase-assets/01-homepage-hero.png) |
+| **Our Heritage & Fiduciary Thesis**<br>Alpha Preservation Corridor matrix highlighting client-aligned advisory standards. | ![Heritage & Thesis](showcase-assets/02-homepage-thesis-alpha.png) |
+| **Stewardship & Leadership Governance**<br>Institutional leadership profiles for Principal Officers (Vjay Mehtta & Chandan Mehta). | ![Leadership & Governance](showcase-assets/05-homepage-leadership.png) |
+| **Real-Time Consultation Hub**<br>Direct investor mandate capture form with office schedule and SLA commitment. | ![Consultation Hub](showcase-assets/06-homepage-consultation-hub.png) |
+| **Interactive FAQ Accordion**<br>Dynamic disclosure addressing onboarding, portfolio audits, and regulatory standards. | ![FAQ Section](showcase-assets/07-homepage-faq.png) |
+| **Institutional Footer & Compliance**<br>ISO 27001 Cryptographic Enclave confirmation and Legal Entity Identifier (LEI). | ![Institutional Footer](showcase-assets/08-homepage-footer.png) |
+
+---
+
+### 2. Multi-Device & Mobile Responsiveness
+
+| Mobile Navigation Drawer | Institutional Discipline Card |
+|:---:|:---:|
+| ![Mobile Navigation Menu](showcase-assets/04-mobile-navigation-menu.png) | ![Mobile Card Discipline](showcase-assets/03-mobile-card-discipline.png) |
+| *Clean drawer navigation with quick booking trigger* | *Touch-friendly portfolio performance card* |
+
+---
+
+### 3. Dedicated Pages & Practice Catalog
+
+| View | Preview |
+|---|---|
+| **About Us — Firm Story & Fiduciary Oath**<br>Dedicated `/about` page detailing the firm's history and four pillars (Fiduciary Oath, Quantitative Rigor, Tax Integration, Partner Accountability). | ![About Page](showcase-assets/09-about-page.png) |
+| **Advisory Practices Catalog**<br>Filterable service matrix supporting 9 dynamic practice categories. | ![Practices Catalog](showcase-assets/11-services-practices-catalog.png) |
+| **Practice Detail — Wealth Management Scope**<br>Detailed breakdown of strategic asset allocation, estate planning, and private advisory. | ![Practice Detail Scope](showcase-assets/12-service-detail-overview.png) |
+| **Practice Execution Roadmap**<br>Step-by-step institutional workflow (Diagnostic Audit → Strategy Architecture → Active Oversight). | ![Practice Roadmap](showcase-assets/13-service-detail-roadmap.png) |
+| **Corporate Headquarters & Direct Inquiries**<br>Dedicated `/contact` portal featuring multi-channel consultation dispatch. | ![Contact Page](showcase-assets/10-contact-page.png) |
 
 ---
 
@@ -123,6 +159,7 @@ A robust lead management subsystem engineered for reliability and conversion:
 - ⚡ LiteSpeed server-side caching integration with instant cache purge workflows.
 - 🔒 Comprehensive production hardening including request size ceilings and header security shields.
 - 📱 Responsive UI implementation with custom Tailwind CSS design system.
+- 📸 Public portal screenshots showcase across desktop, tablet, and mobile views.
 
 ---
 
